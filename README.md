@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Raut</h1>
 <h3 align="center">A passionate MERN Stack Developer from Nepal</h3>
 
-- 👨‍💻 All of my projects are available at [www.sagarraut.com.np](www.sagarraut.com.np)
-
-- 📫 How to reach me **sagarraut2059@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
