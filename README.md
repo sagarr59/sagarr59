@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Raut</h1>
-<h3 align="center">A passionate MERN Stack Developer from Nepal</h3>
+<h3 align="center">A passionate Web Developer from Nepal</h3>
 
 
 <h3 align="left">Connect with me:</h3>
